@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PeterPartnerTestApp</string>
+    <string name="valid_thru">VALID THRU</string>
+    <string name="your_balance">Your balance</string>
+    <string name="change_currency">Change currency</string>
+    <string name="gbp">£</string>
+    <string name="euro">€</string>
+    <string name="rub">₽</string>
+    <string name="history_title">History</string>
+    <string name="main">Главная</string>
+    <string name="my_cards">Мои карты</string>
+</resources>
